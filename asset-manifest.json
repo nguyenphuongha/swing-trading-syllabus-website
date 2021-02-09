@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/swing-trading-syllabus-website/static/css/main.e9b42763.chunk.css",
+    "main.js": "/swing-trading-syllabus-website/static/js/main.ba2f161b.chunk.js",
+    "main.js.map": "/swing-trading-syllabus-website/static/js/main.ba2f161b.chunk.js.map",
+    "runtime-main.js": "/swing-trading-syllabus-website/static/js/runtime-main.9b539669.js",
+    "runtime-main.js.map": "/swing-trading-syllabus-website/static/js/runtime-main.9b539669.js.map",
+    "static/js/2.f2e489e9.chunk.js": "/swing-trading-syllabus-website/static/js/2.f2e489e9.chunk.js",
+    "static/js/2.f2e489e9.chunk.js.map": "/swing-trading-syllabus-website/static/js/2.f2e489e9.chunk.js.map",
+    "index.html": "/swing-trading-syllabus-website/index.html",
+    "precache-manifest.ad2289b3157b5da2dc06a6647e525715.js": "/swing-trading-syllabus-website/precache-manifest.ad2289b3157b5da2dc06a6647e525715.js",
+    "service-worker.js": "/swing-trading-syllabus-website/service-worker.js",
+    "static/css/main.e9b42763.chunk.css.map": "/swing-trading-syllabus-website/static/css/main.e9b42763.chunk.css.map",
+    "static/js/2.f2e489e9.chunk.js.LICENSE.txt": "/swing-trading-syllabus-website/static/js/2.f2e489e9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b539669.js",
+    "static/js/2.f2e489e9.chunk.js",
+    "static/css/main.e9b42763.chunk.css",
+    "static/js/main.ba2f161b.chunk.js"
+  ]
+}
